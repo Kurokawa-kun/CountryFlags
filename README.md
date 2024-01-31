@@ -1,7 +1,7 @@
 # CountryFlags
 ## 概要
-取引中の通貨ペアをMT5ターミナル画面に表示するインジケータです。
-<img src="materials/CountryFlagsImage1.PNG" width="50%">
+取引中の通貨ペアの国旗をMT5ターミナル画面に表示するインジケータです。
+<img src="materials/CountryFlagsImage1.PNG" width="75%">
 
 ## 使用方法
 1. ReleasesからCountryFlags.zipをダウンロードします。
